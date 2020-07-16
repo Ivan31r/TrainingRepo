@@ -1,0 +1,6 @@
+2020-05-21 14:26:38.005 [main] ERROR Main - Error
+java.lang.Exception: null
+	at Main.main(Main.java:44) [classes/:?]
+2020-05-21 14:36:21.850 [main] ERROR Main - Error
+java.lang.Exception: null
+	at Main.main(Main.java:44) [classes/:?]

@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4ec034c1-6a62-49de-9ef5-ba986eecee44" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../11_Multithreading/Deadlock/Deadlock.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11_Multithreading/Deadlock/src/Friend.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11_Multithreading/Deadlock/src/Loader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11_Multithreading/ImageResizer/ImageResizer.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11_Multithreading/ImageResizer/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11_Multithreading/Transactions/Transactions.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11_Multithreading/Transactions/src/Account.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11_Multithreading/Transactions/src/Bank.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1eaEMSo5Z0GHtcgIxZ0AtVlSi2C" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Ivan_Usov\Skillbox\from_git\10_SQLAndHibernate\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="unit_2.Main" />
+      <module name="DBproject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="unit_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="unit_1.main" />
+      <module name="DBproject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="unit_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="unit_2.main" />
+      <module name="DBproject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="unit_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="testUnit.testClass" />
+      <module name="DBproject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testUnit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test_unit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test_unit" />
+      <module name="DBproject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.testClass" />
+        <item itemvalue="Application.test_unit" />
+        <item itemvalue="Application.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4ec034c1-6a62-49de-9ef5-ba986eecee44" name="Default Changelist" comment="" />
+      <created>1594551254818</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594551254818</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="440" y="93" key="#Project_Structure" timestamp="1594713523372">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="93" key="#Project_Structure/0.0.1920.1040/1920.123.1680.1050@0.0.1920.1040" timestamp="1594713523372" />
+    <state x="1229" y="247" key="#com.intellij.ide.util.MemberChooser" timestamp="1596114777047">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1229" y="247" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.123.1680.1050@0.0.1920.1040" timestamp="1596114777047" />
+    <state x="356" y="85" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1595234330632">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="356" y="85" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040/1920.123.1680.1050@0.0.1920.1040" timestamp="1595234330632" />
+    <state x="1119" y="325" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1594717500313">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1119" y="325" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/1920.123.1680.1050@0.0.1920.1040" timestamp="1594717500313" />
+    <state x="154" y="153" width="1581" height="821" key="DiffContextDialog" timestamp="1595773030036">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="154" y="153" width="1581" height="821" key="DiffContextDialog/0.0.1920.1040/1920.123.1680.1050@0.0.1920.1040" timestamp="1595773030036" />
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1596446372617">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040/1920.123.1680.1050@0.0.1920.1040" timestamp="1596446372617" />
+    <state width="910" height="247" key="GridCell.Tab.0.bottom" timestamp="1596110716140">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="910" height="247" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.123.1680.1050@0.0.1920.1040" timestamp="1596110716140" />
+    <state width="910" height="247" key="GridCell.Tab.0.center" timestamp="1596110716140">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="910" height="247" key="GridCell.Tab.0.center/0.0.1920.1040/1920.123.1680.1050@0.0.1920.1040" timestamp="1596110716140" />
+    <state width="910" height="247" key="GridCell.Tab.0.left" timestamp="1596110716140">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="910" height="247" key="GridCell.Tab.0.left/0.0.1920.1040/1920.123.1680.1050@0.0.1920.1040" timestamp="1596110716140" />
+    <state width="910" height="247" key="GridCell.Tab.0.right" timestamp="1596110716140">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="910" height="247" key="GridCell.Tab.0.right/0.0.1920.1040/1920.123.1680.1050@0.0.1920.1040" timestamp="1596110716140" />
+    <state width="910" height="328" key="GridCell.Tab.1.bottom" timestamp="1595342690279">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="910" height="328" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.123.1680.1050@0.0.1920.1040" timestamp="1595342690279" />
+    <state width="910" height="328" key="GridCell.Tab.1.center" timestamp="1595342690279">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="910" height="328" key="GridCell.Tab.1.center/0.0.1920.1040/1920.123.1680.1050@0.0.1920.1040" timestamp="1595342690279" />
+    <state width="910" height="328" key="GridCell.Tab.1.left" timestamp="1595342690278">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="910" height="328" key="GridCell.Tab.1.left/0.0.1920.1040/1920.123.1680.1050@0.0.1920.1040" timestamp="1595342690278" />
+    <state width="910" height="328" key="GridCell.Tab.1.right" timestamp="1595342690279">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="910" height="328" key="GridCell.Tab.1.right/0.0.1920.1040/1920.123.1680.1050@0.0.1920.1040" timestamp="1595342690279" />
+    <state x="926" y="172" key="Maven.ArtifactSearchDialog" timestamp="1594635998889">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="926" y="172" key="Maven.ArtifactSearchDialog/0.0.1920.1040/1920.123.1680.1050@0.0.1920.1040" timestamp="1594635998889" />
+    <state x="362" y="87" key="SettingsEditor" timestamp="1596117586801">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="362" y="87" key="SettingsEditor/0.0.1920.1040/1920.123.1680.1050@0.0.1920.1040" timestamp="1596117586801" />
+    <state x="362" y="266" key="new project wizard" timestamp="1596446373895">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="362" y="266" key="new project wizard/0.0.1920.1040/1920.123.1680.1050@0.0.1920.1040" timestamp="1596446373895" />
+    <state x="1206" y="285" width="672" height="678" key="search.everywhere.popup" timestamp="1596114740961">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1206" y="285" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.123.1680.1050@0.0.1920.1040" timestamp="1596114740961" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand>
+      <path>
+        <item name="DBproject" type="b2602c69:ProjectViewProjectNode" />
+        <item name="10_SQLAndHibernate" type="462c0819:PsiDirectoryNode" />
+      </path>
+    </expand>
+    <select />
+  </component>
+</project>
